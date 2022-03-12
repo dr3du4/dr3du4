@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi there 👋
+I'm first-year telecommunications student at AGH. Networks should be my priority, but coding is more interesting.
+Despite this, I am developing in cisco technologies, and in the future I want to learn cloud computing technologies.
 
-<!--
-**dr3du4/dr3du4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm member of the AGH Code Industry science club. I mainly code in C ++ and Python. I have experience with frameworks such as Pygame and Kivy.
+I am currently learning c #, unity and unreal engine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I am currently working on an anti-stress app for students and pixelart RPG in a steampunk atmosphere (working name is "Bestia ze Steamlandu")
+
+
+Besides programming, my hobbies are hitchhiking, punk and metal music, craft beers and computer games like Heroes of Might and Magic 3
+
+
+Feel free to contact me, if you have any questions. 
