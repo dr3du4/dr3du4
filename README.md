@@ -1,6 +1,6 @@
 Hi there 👋
 I'm first-year telecommunications student at AGH. Networks should be my priority, but coding is more interesting.
-Despite this, I am developing in cisco technologies, and in the future I want to learn cloud computing technologies.
+Despite this, I am developing in cisco technologies.
 
 
 I'm member of the AGH Code Industry science club. I mainly code in C ++ and Python. I have experience with frameworks such as Pygame and Kivy.
