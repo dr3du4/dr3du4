@@ -7,7 +7,7 @@ I'm member of the AGH Code Industry science club. I mainly code in C ++ and Pyth
 I am currently learning c #, unity and unreal engine.
 
 
-I am currently working on an anti-stress app for students and pixelart RPG in a steampunk atmosphere (working name is "Bestia ze Steamlandu")
+I am currently working on an anti-stress app for students and pixelart RPG in a steampunk atmosphere
 
 
 Besides programming, my hobbies are hitchhiking, punk and metal music, craft beers and computer games like Heroes of Might and Magic 3
